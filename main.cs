@@ -38,8 +38,8 @@ string questMessage = "This way adventurer, I have a key from treasure chest.";
 
 // Символьный тип данных:
 
-char grade = "F";
-char doorPassword = "x002f";
+char grade = 'F';
+char doorPassword = '5';
 
 // Тип перечислений:
 
